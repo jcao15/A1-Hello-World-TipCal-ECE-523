@@ -2,7 +2,7 @@ See the [requirements in requirements.md](requirements.md) or on Canvas.
 
 When you are ready, edit this file with the following info: 
 
-# A1: Hello Android (Your Name Here)
+# A1: Hello Android (Jeremy Cao)
 
 ## Overview
 
