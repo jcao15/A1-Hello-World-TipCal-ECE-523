@@ -1,29 +1,26 @@
-See the [requirements in requirements.md](requirements.md) or on Canvas. 
-
-When you are ready, edit this file with the following info: 
-
-# A1: Hello Android (Your Name Here)
+# A1: Hello Android (Jeremy Cao)
 
 ## Overview
 
-I built a thing that does something. But tell me what you built! 
+I built a tip calculator! Yea!
 
 ## Using the app 
 
-Tell me anything I need to know about running the app. 
+User can enter an amount of cost of service, then user is prompted to select a tip percentage
+from a list of 20%, 18%, 15%. Then once the user click CALCULATE button, the tips amount will be calculated and displayed. User can also turn on the 
+option of Round up the tip.
 
 ## Walkthrough
 
 Include some screenshots and information. Put the screenshots in the [imgs](imgs) directory, and include them in this readme like this: 
 
-![Sample Screenshot](imgs/screenshot.png?raw=tru)
+![Sample Screenshot](imgs/myfirstapp.png?raw=tru)
 
 Or use html to resize it: 
 
-<img src="imgs/screenshot.png" width="50">
+<img src="imgs/myfirstapp.png" width="50">
 
 ## Reflection/Summary
 
-Summary of why you chose this project, what you learned or found surprising, what you found challenging or unexpected. You might include something you didn't finish or polish or would like to do different in the future. 
-
+From this project, I learned how to create a project in Android studio, how to write a xml file to design and customize the layout of my app activity, how to use binding feature instead of findIdByView, how to write kotlin functions in main activity. In the future, I would try to implement the recycle view and icons image.
 
